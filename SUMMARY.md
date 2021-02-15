@@ -7,10 +7,7 @@
 
 ## title group
 
-* [Untitled](title-group/untitled.md)
-
----
-
-* [Untitled 1](untitled-1.md)
-* [Untitled 2](untitled-2.md)
+* [Untitled](title-group/untitled/README.md)
+  * [Untitled 1](title-group/untitled/untitled-1/README.md)
+    * [Untitled 2](title-group/untitled/untitled-1/untitled-2.md)
 
